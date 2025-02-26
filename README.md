@@ -14,13 +14,6 @@ Tugas analisis sinyal provider menggunakan network cell info
 -	RSRQ (Reference Signal Received Quality) : Mengukur kualitas sinyal referensi dalam dB.
 -	SINR (Signal-to-Interference-plus-Noise Ratio) : Mengukur rasio antara kekuatan sinyal dengan gangguan dan noise dalam dB.
 
-# •	Analisis Data :
-RSRP (dBm)	RSRQ (dB)	SINR (dB)
--84	-5	Tidak tercantum
--85 hingga -102	-5 hingga -9	12 hingga 10
--103 hingga -111	-9 hingga -12	10 hingga 7
--112	-12	7
-
 # a.	Analisis RSRP (Kekuatan Sinyal)
 RSRP berada dalam rentang -84 dBm hingga -112 dBm. Kategori kualitas sinyal berdasarkan RSRP :
 >-80 dBm → Sangat bagus
