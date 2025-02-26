@@ -16,11 +16,11 @@ Tugas analisis sinyal provider menggunakan network cell info
 
 # a.	Analisis RSRP (Kekuatan Sinyal)
 RSRP berada dalam rentang -84 dBm hingga -112 dBm. Kategori kualitas sinyal berdasarkan RSRP :
-- >-80 dBm → Sangat bagus
-- -80 hingga -90 dBm → Baik
-- -90 hingga -100 dBm → Sedang
-- -100 hingga -110 dBm → Buruk
-- <-110 dBm → Sangat buruk
+> >-80 dBm → Sangat bagus
+> -80 hingga -90 dBm → Baik
+> -90 hingga -100 dBm → Sedang
+> -100 hingga -110 dBm → Buruk
+> <-110 dBm → Sangat buruk
 Kesimpulan : Sebagian besar nilai RSRP berada dalam kategori "buruk" hingga "sangat buruk", yang menunjukkan sinyal lemah.
 
 # b.	Analisis RSRP (Kekuatan Sinyal)
