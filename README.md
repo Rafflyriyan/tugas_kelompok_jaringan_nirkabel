@@ -25,26 +25,26 @@ Kesimpulan : Sebagian besar nilai RSRP berada dalam kategori "buruk" hingga "san
 
 # b.	Analisis RSRP (Kekuatan Sinyal)
 RSRP berada dalam rentang -84 dBm hingga -112 dBm. Kategori kualitas sinyal berdasarkan RSRP :
->-80 dBm → Sangat bagus
--80 hingga -90 dBm → Baik
--90 hingga -100 dBm → Sedang
--100 hingga -110 dBm → Buruk
-<-110 dBm → Sangat buruk
+- (>-80 dBm → Sangat bagus)
+- (-80 hingga -90 dBm → Baik)
+- (-90 hingga -100 dBm → Sedang)
+- (-100 hingga -110 dBm → Buruk)
+- (<-110 dBm → Sangat buruk)
 Kesimpulan : Sebagian besar nilai RSRP berada dalam kategori "buruk" hingga "sangat buruk", yang menunjukkan sinyal lemah.
 
 # c.	Analisis RSRQ (Kualitas Sinyal)
 RSRQ berada dalam rentang -5 dB hingga -12 dB. Kategori kualitas sinyal berdasarkan RSRQ*:
->-10 dB → Baik
--10 hingga -15 dB → Sedang
-<-15 dB → Buruk
+- (>-10 dB → Baik)
+- (-10 hingga -15 dB → Sedang)
+- (<-15 dB → Buruk)
 Kesimpulan : Sebagian besar nilai RSRQ berkisar antara -5 hingga -12 dB, yang berarti kualitas sinyal masih cukup baik namun mendekati kategori sedang/buruk.
 
 # d.	Analisis SINR (Rasio Sinyal terhadap Noise) 
 SINR berada dalam rentang 12 dB hingga 7 dB. Kategori kualitas sinyal berdasarkan SINR :
->20 dB → Sangat baik 
-13 hingga 20 dB → Baik
-0 hingga 13 dB → Buruk
-<0 dB → Sangat buruk
+- (>20 dB → Sangat baik) 
+- (13 hingga 20 dB → Baik)
+- (0 hingga 13 dB → Buruk)
+- (<0 dB → Sangat buruk)
 Kesimpulan : SINR yang berkisar antara 7 hingga 12 dB menunjukkan bahwa sinyal mengalami gangguan dan noise yang cukup tinggi.
 
 # e.	Kesimpulan Umum
